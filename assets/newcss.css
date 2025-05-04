@@ -707,6 +707,12 @@ img {
   border-radius: 0.5rem;
   justify-self: center;
 }
+.garima {
+  border-radius: 0.5rem;
+  justify-self: center;
+  width: 150px;
+  height: 250px;
+}
 .portfolio__title {
   font-size: var(--h3-font-size);
   margin-bottom: var(--mb-0-5);
