@@ -1,15 +1,23 @@
 🌐 Personal Portfolio Website
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Welcome to the source code repository for my Personal Portfolio Website, a fully responsive, visually engaging, and user-friendly platform crafted to present who I am, what I do, and how I can contribute to impactful digital solutions.
 
 This website serves as my professional identity online, offering an interactive and informative glimpse into my background, technical expertise, and the projects that define my journey as a web developer.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 📌 About the Project
+
+
 The Personal Portfolio Website is more than just a digital resume. It's a curated representation of my skills, passion, and commitment to continuous growth in the tech industry. Whether you're a recruiter, a fellow developer, or someone interested in my work, this site provides a comprehensive overview of what I bring to the table.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ✨ Key Features
+
+
 🏠 Home Page
 A welcoming introduction with a personal touch, showcasing my name, tagline, and professional role with engaging visuals and smooth animations.
 
