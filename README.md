@@ -93,7 +93,11 @@ Open the index.html file in your preferred browser to view it locally.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🤝 Contributing
-I always welcome constructive feedback and ideas for improvement! If you find bugs or have suggestions:
+
+
+I always welcome constructive feedback and ideas for improvement! 
+
+If you find bugs or have suggestions:
 
 
 
