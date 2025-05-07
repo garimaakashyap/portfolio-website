@@ -8,14 +8,14 @@ This website serves as my professional identity online, offering an interactive 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📌 About the Project
+📌## About the Project
 
 
 The Personal Portfolio Website is more than just a digital resume. It's a curated representation of my skills, passion, and commitment to continuous growth in the tech industry. Whether you're a recruiter, a fellow developer, or someone interested in my work, this site provides a comprehensive overview of what I bring to the table.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✨ Key Features
+✨ ##Key Features
 
 
 🏠 Home Page
